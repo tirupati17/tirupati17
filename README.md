@@ -11,7 +11,7 @@ struct Tirupati {
     let platforms = ["iOS", "Android", "Web"]
     let building  = ["Emotica", "AastroAstra"]
     let alsoMade  = ["Mysticadii", "Amigo"]
-    let habit     = "zero to App Store in about three months"
+    let habit     = "zero to production in about three months"
 }
 ```
 
