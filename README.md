@@ -37,7 +37,7 @@ and the web app was #2 Product of the Day on Product Hunt.
 
 #### Open source
 
-**[cpm-oss](https://github.com/tirupati17/cpm-oss)**: memory across repos for coding
+**[cpm](https://github.com/tirupati17/cpm)**: memory across repos for coding
 agents, plus one command for Play, App Store, RevenueCat and the other services an app
 runs on. It's how everything above gets built and shipped.
 
